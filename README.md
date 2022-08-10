@@ -1,5 +1,5 @@
 # cosmic-colors
-A lightweight color theme for python.
+A lightweight color theme for Python.
 
 Cosmic Colors is a lightweight color theme for python. 
 
