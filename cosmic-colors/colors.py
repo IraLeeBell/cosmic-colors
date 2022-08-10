@@ -1,8 +1,5 @@
 ### Colors ###
 
-# This isn't part of the book exercises. I just felt it was time to make some
-# of the output more colorful and wanted to get this in to the repo
-
 # This will work in Windows Terminal, but not in Command Prompt. To enable
 # it to work in Windows Command Prompt, we simply add the following registry
 # key by opening a Command Prompt as Administrator and running the following:
