@@ -320,3 +320,6 @@ print(color.AIR + "Purple")
 print(color.AHV + "Red")
 print(color.AIW + "Yellow")
 print(color.ENDC)
+
+name = input("What is your name?")
+print("hello, %s" % name)

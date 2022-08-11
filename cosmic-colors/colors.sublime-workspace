@@ -1,0 +1,321 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"buil",
+				"building_three_length"
+			],
+			[
+				"building",
+				"building_three_length"
+			],
+			[
+				"build",
+				"building_one_length"
+			],
+			[
+				"var",
+				"varsum"
+			],
+			[
+				"mag",
+				"magician"
+			],
+			[
+				"ho",
+				"holidays_backup"
+			],
+			[
+				"fav",
+				"favorite_visual_only"
+			],
+			[
+				"hello_ry",
+				"hello_ryan"
+			],
+			[
+				"h",
+				"hello_randy"
+			],
+			[
+				"hell",
+				"hello_todd"
+			],
+			[
+				"last",
+				"last_name_foratted"
+			],
+			[
+				"midd",
+				"middle_name_formatted"
+			],
+			[
+				"fir",
+				"first_name_formatted"
+			],
+			[
+				"full",
+				"full_name_formatted"
+			],
+			[
+				"quote",
+				"quote_cont_further"
+			],
+			[
+				"fam",
+				"famous_quote_additional"
+			],
+			[
+				"famou",
+				"famous_person_full_name"
+			],
+			[
+				"famous_",
+				"famous_person_last"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Programming/GitHub/cosmic-colors/cosmic-colors/colors.py",
+		"/C/Programming/GitHub/CosmicColors/colors.py",
+		"/C/Programming/GitHub/cosmicmatter/README.md",
+		"/C/Programming/GitHub/cosmic-colors/CONTRIBUTING.md",
+		"/C/Programming/GitHub/cosmic-colors/README.md",
+		"/C/Users/secas/AppData/Roaming/Sublime Text/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/secas/AppData/Roaming/Sublime Text/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/secas/AppData/Roaming/Sublime Text/Packages/User/ansi.sublime-settings",
+		"/C/Users/secas/AppData/Roaming/Sublime Text/Packages/ANSIescape/ansi.sublime-settings",
+		"/C/Program Files/Sublime Text/Packages/Python.sublime-package",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/005 - If Statements/conditional_tests.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/005 - If Statements/astronomy.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/005 - If Statements/more_conditional_tests.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/005 - If Statements/voting.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/005 - If Statements/amusement_park.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/005 - If Statements/toppings_multiple.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/005 - If Statements/alien_colors.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/005 - If Statements/alien_colors_2.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/005 - If Statements/banned_users.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/005 - If Statements/toppings.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/005 - If Statements/magic_number.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/005 - If Statements/cars.py",
+		"/C/Programming/GitHub/IraLeeBell/README.md",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/pep8.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/players.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/005 - If Statements/cars2.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/buffet.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/dimensions.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/friends_pizzas.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/foods_looping.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/003 - Introducing Lists/players.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/003 - Introducing Lists/every_function.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/003 - Introducing Lists/changing_guest_list.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/cubes_comprehension.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/cubes.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/magicians.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/multiples_of_three.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/odd_numbers.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/pizzas.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/animals.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/first_numbers.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/even_numbers.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/squares.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/simple_statistics_with_numbers.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/counting_to_twenty.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/summing_a_million.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/004 - Working with Lists/one_million.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/zen_of_python.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/003 - Introducing Lists/bicycles.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/003 - Introducing Lists/motorcycles.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/003 - Introducing Lists/shrinking_guest_list.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/003 - Introducing Lists/determine_guest_list_by_list_length.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/003 - Introducing Lists/cars.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/003 - Introducing Lists/seeing_the_world.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/003 - Introducing Lists/your_own_list.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/003 - Introducing Lists/greeting.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/simple_messages.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/comment.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/number_eight.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/stripping_names.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/adding_comments.py",
+		"/C/Programming/GitHub/PythonCrashCourse/CONTRIBUTING.md",
+		"/C/Programming/GitHub/PythonCrashCourse/CODE_OF_CONDUCT.md",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/famous_quote.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/name_cases.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/personal_message.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/apostrophe.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/full_name.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/name.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/hello_world.py",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/simple_messages",
+		"/C/Programming/GitHub/PythonCrashCourse/PythonCrashCourse/002 - Variables and Simple Data Types/simple_message.py",
+		"/C/Programming/GitHub/PythonCrashCourse/.gitignore",
+		"/C/Scripts/old/batch-obtain-local-copy-of-images-old.bat",
+		"/C/Scripts/batch-obtain-local-copy-of-images.bat"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "colors.sublime-project",
+	"replace":
+	{
+		"height": 50.4
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

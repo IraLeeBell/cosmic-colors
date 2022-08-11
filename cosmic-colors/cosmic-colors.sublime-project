@@ -1,0 +1,26 @@
+{
+	
+    "build_systems":
+    [
+        {
+            /* your existing build command arguments */
+            "name": "Run",
+            "working_dir": "${project_path}/src",
+            "env": {"PYTHONPATH": ".../venv/python2.7/site-packages",},
+            "cmd": ["nosetests", "--rednose"],
+
+            /*  add target and syntax */
+            "target": "ansi_color_build",
+            "syntax": "Packages/ANSIescape/ANSI.tmLanguage",
+        }
+    ],
+
+    "folders":
+	[
+		{
+			"path": "C:\\Programming\\GitHub\\cosmic-colors",
+		}
+    ],
+
+	
+}
